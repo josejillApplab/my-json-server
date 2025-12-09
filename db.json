@@ -15,6 +15,70 @@
       "createdAt": "2024-01-01",
       "tags": ["backend", "security"],
       "comments": []
+    },
+    {
+      "id": 2,
+      "title": "Create user management",
+      "description": "Add CRUD operations for users",
+      "status": "todo",
+      "priority": "medium",
+      "assignedTo": {
+        "id": 2,
+        "name": "Jane Smith",
+        "avatar": "https://example.com/avatar/jane.png"
+      },
+      "dueDate": "2024-01-20",
+      "createdAt": "2024-01-03",
+      "tags": ["backend", "users"],
+      "comments": []
+    },
+    {
+      "id": 3,
+      "title": "Design login UI",
+      "description": "Create responsive login and signup screens",
+      "status": "done",
+      "priority": "low",
+      "assignedTo": {
+        "id": 3,
+        "name": "Alex Brown",
+        "avatar": "https://example.com/avatar/alex.png"
+      },
+      "dueDate": "2024-01-10",
+      "createdAt": "2023-12-28",
+      "tags": ["frontend", "ui"],
+      "comments": []
+    },
+    {
+      "id": 4,
+      "title": "Setup database schema",
+      "description": "Define tables and relationships",
+      "status": "in-progress",
+      "priority": "high",
+      "assignedTo": {
+        "id": 4,
+        "name": "Emily Clark",
+        "avatar": "https://example.com/avatar/emily.png"
+      },
+      "dueDate": "2024-01-18",
+      "createdAt": "2024-01-02",
+      "tags": ["database", "architecture"],
+      "comments": []
+    },
+    {
+      "id": 5,
+      "title": "Add API documentation",
+      "description": "Write Swagger/OpenAPI documentation",
+      "status": "todo",
+      "priority": "medium",
+      "assignedTo": {
+        "id": 5,
+        "name": "Michael Lee",
+        "avatar": "https://example.com/avatar/michael.png"
+      },
+      "dueDate": "2024-01-25",
+      "createdAt": "2024-01-05",
+      "tags": ["documentation", "api"],
+      "comments": []
     }
   ]
 }

@@ -1,16 +1,20 @@
 {
-  id: 1,
-  title: "Implement authentication",
-  description: "Add JWT authentication to the API",
-  status: "in-progress", // todo | in-progress | done
-  priority: "high", // low | medium | high
-  assignedTo: {
-    id: 1,
-    name: "John Doe",
-    avatar: "url"
-  },
-  dueDate: "2024-01-15",
-  createdAt: "2024-01-01",
-  tags: ["backend", "security"],
-  comments: []
-};
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Implement authentication",
+      "description": "Add JWT authentication to the API",
+      "status": "in-progress",
+      "priority": "high",
+      "assignedTo": {
+        "id": 1,
+        "name": "John Doe",
+        "avatar": "https://example.com/avatar/john.png"
+      },
+      "dueDate": "2024-01-15",
+      "createdAt": "2024-01-01",
+      "tags": ["backend", "security"],
+      "comments": []
+    }
+  ]
+}
